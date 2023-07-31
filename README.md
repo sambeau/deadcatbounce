@@ -1,4 +1,4 @@
-# Dead-Cat Bounce
+Dead-Cat Bounce
 
 A German-style trading board-game design played with a standard pack of cards.
 
@@ -57,7 +57,7 @@ In any order:
 - **Sell to the bank:** any card on display or in your hand can be sold to the bank. The bank pays 1 token per card, even for Aces.
 - **Build runs:** two or more cards of consecutive order and of the same suit can be placed onto the table to create a run. Cards can be added to the top or bottom of runs to make them longer.
 - **Build sets:** two (a pair) or more cards of the same rank can be placed on the table. Cards can be added to sets to make them wider.
-- buy extra flop cards: as long as there are less than 3 cards in the flop,
+- **pay to see extra flop cards:** as long as there are less than 3 cards in the flop, you can spend one token to fill them. You can then buy them if you want, but have to pay the nominal price for them.
 ### Protect your investments
 1. **Inflate prices to protect your investments:** Place extra tokens onto any sets and runs you want to inflate the price of, to protect from hostile takeover.
 ### Pay Tax
