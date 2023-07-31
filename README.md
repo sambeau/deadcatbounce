@@ -54,8 +54,12 @@ In any order:
 - **Buy New Stock:** Any cards in the flop can be bought at their _nominal price_
 - **Trade With Other players:** Players are free to buy, sell and swap any cards they have on display or in their hand.
 - **Hostile Takeover:** Players are free to buy any sets & runs on display by other players, as long as the full **inflated** price is paid in-full.
+- **Sell to the bank:** any card on display or in your hand can be sold to the bank. The bank pays 1 token per card, even for Aces.
+- **Build runs:** two or more cards of consecutive order and of the same suit can be placed onto the table to create a run. Cards can be added to the top or bottom of runs to make them longer.
+- **Build sets:** two (a pair) or more cards of the same rank can be placed on the table. Cards can be added to sets to make them wider.
+- buy extra flop cards: as long as there are less than 3 cards in the flop,
 ### Protect your investments
-1. **Inflate prices to protect your investments: **Place extra tokens onto any sets and runs you want to inflate the price of, to protect from hostile takeover.
+1. **Inflate prices to protect your investments:** Place extra tokens onto any sets and runs you want to inflate the price of, to protect from hostile takeover.
 ### Pay Tax
 1. Cards held in your hand are taxed at one token per card, paid directly to the bank.
 	- Taxes must be paid, if you don’t have enough for tax, something must be sold either to the bank (which pays one token per card), or to another player (who might be more generous).
@@ -63,8 +67,9 @@ In any order:
 
 ### Nominal prices
 These are the standard prices used when buying anything from the bank, and when the bank pays out dividends.
-	- 3-10: 1 token
-	- 2, J: 2 tokens
-	- Q: 3 tokens
-	- K: 4 tokens
-	- A: 5 tokens
+
+- **3**-**10**: 1 token
+- **2**, **J**: 2 tokens
+- **Q**: 3 tokens
+- **K**: 4 tokens
+- **A**: 5 tokens
