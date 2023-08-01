@@ -41,7 +41,7 @@ Dead-Cat Bounce is a trading game played with a pack of cards and some tokens to
 Turns have phases that are completed in order:
 1. Housekeeping
 2. Trade
-3. Protect
+3. Protect your investments
 4. Discard
 5. Pay Tax
 
@@ -116,11 +116,28 @@ These are the standard prices of cards, used when buying anything from the bank 
 - Twos are the only cards you can display by themselves. You can add cards to a singleton two to convert it to a set or a run.
 	- A single two is not considered a run or a set, so cannot win a length bonus.
 ### Hostile Takeovers
--
+- Any set, run or 2, on display are for sale.
+- Cards in your hand are not for sale.
+- To buy a set or run you must buy every card in it, at its nominal price.
+	- K–Q–J–T will cost 4+3+2+1 = 10 to buy
+	- 2—2 will cost 2+2 = 4 to buy
+	- 5—5–5 will cost 1+1+1 = 3 to buy
+- If a run or set has extra tokens placed on it, their value is added to the price needed to buy the set. The extra tokens are not part of the purchase, so are handed to the bank.
+- The full inflated price is paid by the buyer, to the current owner.
+### Protecting your investments by inflating their value
+- By default anyone can buy anyone else’s run or set for just the nominal price of all the cards in it.
+- To protect against hostile takeovers you can inflate the price of your runs and sets by adding tokens to them
+- Place the tokens on top of the run so that they can be clearly seen (without also obscuring too much of the run, especially the top card)
+- Each token adds one to the price of the run or set, so if you add three tokens to a run it will cost three more tokens to buy it.
+- The higher price is paid by the buyer and goes to you, the (possibly reluctant) seller
+- As part of the transaction the extra tokens are removed and given to the bank
+- The extra tokens last one full turn. If the runs make it back to your turn again without being bought, the tokens are spent and are given to the bank.
+- Each turn you need to place new tokens on the runs & sets you want to protect
+
 ### Trade With Other players
 - You can initiate a trade with another player at any point during the trading part of your turn
 - You can take part in a trade at any point, if initiated by a player during their turn
-- You cannot trade with another player unless it is yours or the other player’s turn
+- You cannot trade with another player unless it is yours, or the other player’s, turn
 - During a trade, players are free to:
 	- exchange cards for money at any price they mutually agree on
 	- swap cards
