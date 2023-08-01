@@ -88,14 +88,18 @@ These are the standard prices of cards, used when buying anything from the bank 
 - Dividends are paid using this formula:
 	- Price of most valuable card + 1 per extra card in set or run.
 - Examples:
-	- **K–Q–J–T:** 4+3 = **7**
-	- **Single 2:** 2 = **2**
-	- **2–2:** 2+1 = **3**
-	- **3–3–3:** 1+2 = 3
-	- **A–A–A–A:** 5+3 = **8**
-	- **A–2–3–4:** 5+3 = **8**
-	- **6–5–4–3:** 1+3 = **4**
-	- **6–5–4–3–2:** 2+4 = **6**
+
+| Run | Sum | Tokens |
+|:-|:-:|-:|
+| K–Q–J–T | 4+3 | 7 |
+| Single 2 | 2 | 2 |
+| 2–2 | 2+1 | 3 |
+| 3–3–3 | 1+2 | 3 |
+| A–A–A–A | 5+3 | 8 |
+| A–2–3–4 | 5+3 | 8 |
+| 6–5–4–3 | 1+3 | 4 |
+| 6–5–4–3–2 | 2+4 | 6 |
+
 - **Bonuses:** The bank also pays the following bonuses, 1 token for the player who uniquely displays:
 	- Highest card of a suit.
 	- Most cards of a suit.
@@ -123,7 +127,7 @@ These are the standard prices of cards, used when buying anything from the bank 
 	- 2—2 will cost 2+2 = 4 to buy
 	- 5—5–5 will cost 1+1+1 = 3 to buy
 - If a run or set has extra tokens placed on it, their value is added to the price needed to buy the set. The extra tokens are not part of the purchase, so are handed to the bank.
-- The full inflated price is paid by the buyer, to the current owner.
+- The full inflated price is paid by the buyer to the current owner.
 ### Protecting your investments by inflating their value
 - By default anyone can buy anyone else’s run or set for just the nominal price of all the cards in it.
 - To protect against hostile takeovers you can inflate the price of your runs and sets by adding tokens to them
@@ -147,11 +151,15 @@ These are the standard prices of cards, used when buying anything from the bank 
 - There must always be a space in the flop at the end of your turn, so that the next player gets a new card to choose.
 - At the end of your turn, you can pick a low card to discard for free, or pay a fee to discard a higher-value card.
 - Discarding is (nominal value – 1) to discard, so:
-	- **3-T:** free
-	- **2,j:** 1
-	- **Q:** 2
-	- **K:** 3
-	- **A:** 4
+
+| Rank | Discard Fee |
+|:--|:--|
+| **3 - T** | *free* |
+| **2, J** | 1 |
+| **Q** | 2
+| **K** | 3 |
+| **A** | 4 |
+
 - If your choice is only to pay for a discard, and you don’t wish too, the bank will discard the lowest ranked card, closest to the discard pile, for free.
 ### Selling a card to the Bank
 - The bank pays 1 for any card sold back to it
