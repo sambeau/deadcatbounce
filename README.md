@@ -66,10 +66,28 @@ In any order:
 2. Once tax has been paid, your turn is over and play passes to the next player.
 
 ### Nominal prices
-These are the standard prices used when buying anything from the bank, and when the bank pays out dividends.
+These are the standard prices of cards, used when buying anything from the bank and when the bank pays out dividends.
 
 - **3**-**10**: 1 token
 - **2**, **J**: 2 tokens
 - **Q**: 3 tokens
 - **K**: 4 tokens
 - **A**: 5 tokens
+
+### Dividends
+- The bank pays dividends for any stock (runs, sets and 2s) you have on display at the start of your turn.
+- Cards held in your hand do not pay dividends
+- Stock lost to a hostile takeover mid-round does not pay you a dividend. Any dividend will go to the buyer on their turn (if they still own it).
+- Dividends are paid using this formula:
+	- Price of most valuable card + 1 per extra card in set or run
+- Examples:
+	- **K,Q,J,T:** 4+3 = **7**
+	- **Single 2:** 2 = **2**
+	- **2,2:** 2+1 = **3**
+	- **3,3,3:** 1+2 = 3
+	- **A,A,A,A:** 5+3 = **8**
+	- **A,2,3,4:** 5+3 = **8**
+	- **6,5,4,3:** 1+3 = **4**
+	- **6,5,4,3,2:** 2+4 = **6**
+
+###
