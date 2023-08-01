@@ -53,8 +53,10 @@ Like most trading games, the end-goal is money, not collections, so, at the end 
 2. Keep a space to the right of the flop for the discard pile
 3. The first player starts their turn. As they won’t have any sets or runs, any fees to pay, etc. they can go straight to buying stock.
 
-### Turn
-Turns have phases that are completed in order:
+### Turns
+DCB is a turn-based game. Each player takes their turn to play, and play passes from one player to the next in order around the table.
+
+Turns have phases that each player completes in order:
 1. Housekeeping
 2. Trade
 3. Protect your investments
