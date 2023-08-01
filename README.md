@@ -72,6 +72,7 @@ In any order:
 - **Buy New Stock:** Any cards in the flop can be bought at their _nominal price_
 - **Trade With Other players:** Players are free to buy, sell and swap any cards they have on display or in their hand.
 - **Hostile Takeover:** Players are free to buy any sets & runs on display by other players, as long as the full **inflated** price is paid in-full.
+- **Put a card back on the market:** any card on display or in your hand can be put back into the flop—_if there is a space in the flop for it_. The market will pay the nominal price minus an admin fee of 1 token.
 - **Sell to the bank:** any card on display or in your hand can be sold to the bank. The bank pays 1 token per card, even for Aces.
 - **Build runs:** two or more cards in consecutive order and of the same suit can be placed onto the table to create a run. Cards can be added to the top or bottom of runs to lengthen them.
 - **Build sets:** two (a pair) or more cards of the same rank can be placed on the table. Cards can be added to sets to make them wider.
@@ -184,6 +185,7 @@ These are the standard prices of cards, used when buying anything from the bank 
 - If there is room in the flop, you can put your card back onto it, placing it back on the market.
 - The bank will return your investment minus an admin fee of 1 token. So, placing an Ace on the market will pay you 4 tokens.
 	- Note that if you later decide to discard it, it will cost you 4 tokens to do so. At which point, you might as well have sold it straight to the bank for 1.
+- You can make a space in the flop by buying a card and then put a different card back on the market in its place.
 ### The Stack, Flop & Discard Pile
 - Cards, conceptually, move sideways from the stack, through the flop, onto the discard pile. This represents the market, knowledge of how it will behave in the future, and what stock is hot at the moment.
 - Slide cards in the flop towards the discard pile so that new cards are always added to the side near the stack.
