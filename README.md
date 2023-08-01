@@ -15,7 +15,7 @@ Dead Cat Bounce is a rummy-style game crossed with a trading-style board-game.
 
 The aim is to collect runs of cards, as the bank pays out money to the players with the longest.
 
-However, players can buy up the runs of other players, so unless you can protect the runs you have built, you may lose them at any minute. The way to protect your runs is to lay extra money on them, making them pricier to buy. But, as you lose any money you protect your cards with, they soon become expensive to maintain too many.
+However, players can buy up the runs of other players, so unless you can protect the runs you have built, you may lose them at any minute. The way to protect your runs is to lay extra money on them, making them pricier to buy. But, as the protection money is paid to the bank and must be replenished every turn, it soon becomes expensive to maintain too many.
 
 To discourage players from hiding valuable cards in their hands, they are made to pay a tax each turn for any cards they hold.
 
