@@ -11,12 +11,12 @@ Dead-Cat Bounce is a trading game played with a pack of cards and some tokens to
 
 ## Rules
 ### Equipment
-- A pack of standard cards.
+- A pack, or two, of standard cards.
 - Tokens, approximately 25 per person.
 
 ### Players
 - It works well with 4 players and one pack of cards.
-- We intend to experiment with adding extra suits for more players.
+- You can add extra suits (“penny stocks”) for more players, e.g. add another suit of clubs for 5 players, further add another suit of diamonds for 6 players.
 
 ### Set-up
 1. Shuffle the pack.
@@ -27,9 +27,10 @@ Dead-Cat Bounce is a trading game played with a pack of cards and some tokens to
 
 ### Order of play
 - Clockwise or anti-clockwise, it makes no difference.
-- Experienced adults: left/right of dealer.
-- Mixed ages: youngest goes last.
-- Mixed experience: new player goes last.
+- The last player to play probably has an advantage.
+	- Experienced adults: next of dealer.
+	- Mixed ages: youngest goes last.
+	- Mixed experience: new player goes last.
 
 ### Start
 1. Deal a three card ‘flop’ to the right of the pack and turn them over for everyone to see.
@@ -41,7 +42,8 @@ Turns have phases that are completed in order:
 1. Housekeeping
 2. Trade
 3. Protect
-4. Pay Tax
+4. Discard
+5. Pay Tax
 
 ### Housekeeping
 In order:
@@ -55,11 +57,14 @@ In any order:
 - **Trade With Other players:** Players are free to buy, sell and swap any cards they have on display or in their hand.
 - **Hostile Takeover:** Players are free to buy any sets & runs on display by other players, as long as the full **inflated** price is paid in-full.
 - **Sell to the bank:** any card on display or in your hand can be sold to the bank. The bank pays 1 token per card, even for Aces.
-- **Build runs:** two or more cards of consecutive order and of the same suit can be placed onto the table to create a run. Cards can be added to the top or bottom of runs to make them longer.
+- **Build runs:** two or more cards in consecutive order and of the same suit can be placed onto the table to create a run. Cards can be added to the top or bottom of runs to lengthen them.
 - **Build sets:** two (a pair) or more cards of the same rank can be placed on the table. Cards can be added to sets to make them wider.
-- **pay to see extra flop cards:** as long as there are less than 3 cards in the flop, you can spend one token to fill them. You can then buy them if you want, but have to pay the nominal price for them.
+- **Pay to see extra flop cards:** as long as there are less than 3 cards in the flop, you can spend one token to fill them. You can then buy them if you like, but have to pay the nominal price for them.
 ### Protect your investments
 1. **Inflate prices to protect your investments:** Place extra tokens onto any sets and runs you want to inflate the price of, to protect from hostile takeover.
+### Discard
+There should always be a space in the flop at the end of your turn, so one card should be discarded.
+1. Choose a card to be discarded, if you cannot discard without paying, the bank will discard for you (see below).
 ### Pay Tax
 1. Cards held in your hand are taxed at one token per card, paid directly to the bank.
 	- Taxes must be paid, if you don’t have enough for tax, something must be sold either to the bank (which pays one token per card), or to another player (who might be more generous).
@@ -68,26 +73,77 @@ In any order:
 ### Nominal prices
 These are the standard prices of cards, used when buying anything from the bank and when the bank pays out dividends.
 
-- **3**-**10**: 1 token
-- **2**, **J**: 2 tokens
-- **Q**: 3 tokens
-- **K**: 4 tokens
-- **A**: 5 tokens
+| Rank | Tokens |
+|:--|:--|
+| 3–T | 1 |
+| 2, J | 2 |
+| Q | 3 |
+| K | 4 |
+| A | 5 |
 
 ### Dividends
-- The bank pays dividends for any stock (runs, sets and 2s) you have on display at the start of your turn.
-- Cards held in your hand do not pay dividends
+- The bank pays dividends for any stock (runs, sets and 2s) you have on display at the start of your turn and bonuses for capturing certain markets.
+- Cards held in your hand do not pay dividends.
 - Stock lost to a hostile takeover mid-round does not pay you a dividend. Any dividend will go to the buyer on their turn (if they still own it).
 - Dividends are paid using this formula:
-	- Price of most valuable card + 1 per extra card in set or run
+	- Price of most valuable card + 1 per extra card in set or run.
 - Examples:
-	- **K,Q,J,T:** 4+3 = **7**
+	- **K–Q–J–T:** 4+3 = **7**
 	- **Single 2:** 2 = **2**
-	- **2,2:** 2+1 = **3**
-	- **3,3,3:** 1+2 = 3
-	- **A,A,A,A:** 5+3 = **8**
-	- **A,2,3,4:** 5+3 = **8**
-	- **6,5,4,3:** 1+3 = **4**
-	- **6,5,4,3,2:** 2+4 = **6**
-
-###
+	- **2–2:** 2+1 = **3**
+	- **3–3–3:** 1+2 = 3
+	- **A–A–A–A:** 5+3 = **8**
+	- **A–2–3–4:** 5+3 = **8**
+	- **6–5–4–3:** 1+3 = **4**
+	- **6–5–4–3–2:** 2+4 = **6**
+- **Bonuses:** The bank also pays the following bonuses, 1 token for the player who uniquely displays:
+	- Highest card of a suit.
+	- Most cards of a suit.
+	- Longest run, out of _all_ runs, of _all_ suits.
+### Buying New Stock
+- Any cards in the flop are available for purchase
+- To buy a card from the flop, pay the nominal fee to the bank
+- A card can be placed in your hand, added to a run or set on the table or used to make a set or run on the table
+### Runs & Sets
+- During your turn, you can place as many cards as you like, from your hand, flop, trades or takeovers, onto the table to make sets and runs.
+- **Runs:** are **two** or more cards **of the same suit** in consecutive order. So, 4–3, A–K–Q–J–T, 3–2—A, 2—A, are all valid runs.
+	- Note that an ace can be low or high.
+- **Sets:** are two or more cards of the same rank. So, 3-3, 4–4–4, 5–5–5–5 are all valid sets.
+	- If you play with more than 4 suits, sets can be of more than 4 cards.
+- **Dividends:** are paid out for a combination of rank and length. See the dividends section for more details.
+- You can break your sets and runs up during your turn to make different sets or runs, place cards into your hand, put the cards back onto the market, or sell them back to the bank.
+### Twos
+- Twos are the only cards you can display by themselves. You can add cards to a singleton two to convert it to a set or a run.
+	- A single two is not considered a run or a set, so cannot win a length bonus.
+### Hostile Takeovers
+-
+### Trade With Other players
+- You can initiate a trade with another player at any point during the trading part of your turn
+- You can take part in a trade at any point, if initiated by a player during their turn
+- You cannot trade with another player unless it is yours or the other player’s turn
+- During a trade, players are free to:
+	- exchange cards for money at any price they mutually agree on
+	- swap cards
+	- any combination of the above
+- Trading should be kept short to keep the game moving.
+### Discards
+- There must always be a space in the flop at the end of your turn, so that the next player gets a new card to choose.
+- At the end of your turn, you can pick a low card to discard for free, or pay a fee to discard a higher-value card.
+- Discarding is (nominal value – 1) to discard, so:
+	- **3-T:** free
+	- **2,j:** 1
+	- **Q:** 2
+	- **K:** 3
+	- **A:** 4
+- If your choice is only to pay for a discard, and you don’t wish too, the bank will discard the lowest ranked card, closest to the discard pile, for free.
+### Selling a card to the Bank
+- The bank pays 1 for any card sold back to it
+- Cards held in your hand can be sold & discarded ‘face down’ so that other players know that you have sold a card, but not what card it is.
+### Putting a card back on the market
+- If there is room in the flop, you can put your card back onto it, placing it back on the market.
+- The bank will return your investment minus an admin fee of 1 token. So, placing an Ace on the market will pay you 4 tokens.
+	- Note that if you later decide to discard it, it will cost you 4 tokens to do so. At which point, you might as well have sold it straight to the bank for 1.
+### The Stack, Flop & Discard Pile
+- Cards, conceptually, move sideways from the stack, through the flop, onto the discard pile. This represents the market, knowledge of how it will behave in the future, and what stock is hot at the moment.
+- Slide cards in the flop towards the discard pile so that new cards are always added to the side near the stack.
+- Watching how the stack shrinks and the discard pile grows helps to give an understanding of how far through the game you are.
