@@ -9,6 +9,22 @@ A German-style trading board-game design played with a standard pack of cards.
 
 Dead-Cat Bounce is a trading game played with a pack of cards and some tokens to act as money. It is loosely based around the concept of buying and selling stocks and shares. It falls into the Rummy family of games, so has melds of sets and runs, which in this case represent the stocks and shares. Dead-Cat Bounce expands on the basic rummy game, turning into a trading game, by introducing money, dividends, tax and hostile takeovers.
 
+## Overview
+
+Dead Cat Bounce is a rummy-style game crossed with a trading-style board-game.
+
+The aim is to collect runs of cards, as the bank pays out money to the players with the longest.
+
+However, players can buy up the runs of other players, so unless you can protect the runs you have built, you may lose them at any minute. The way to protect your runs is to lay extra money on them, making them pricier to buy. But, as you lose any money you protect your cards with, they soon become expensive to maintain too many.
+
+To discourage players from hiding valuable cards in their hands, they are made to pay a tax each turn for any cards they hold.
+
+To add an aspect of anticipation and the illusion of planning, DCB has a flop where cards-for-sale can linger just long enough to become part of someone's plan.
+
+There is an interesting balance to find between protectionism and extravagance in DCB. You can lose a prized run one turn, only to buy it back bigger and better a turn later. It’s a game where it’s better not to get too attached to a plan, run or suit as cards tend to fly around the table. It’s also a hilarious way to lose friends and family members.
+
+Like most trading games, the end-goal is money, not collections, so, at the end of the game, the player with the most money wins.
+
 ## Rules
 ### Equipment
 - A pack, or two, of standard cards.
@@ -129,23 +145,23 @@ These are the standard prices of cards, used when buying anything from the bank 
 - If a run or set has extra tokens placed on it, their value is added to the price needed to buy the set. The extra tokens are not part of the purchase, so are handed to the bank.
 - The full inflated price is paid by the buyer to the current owner.
 ### Protecting your investments by inflating their value
-- By default anyone can buy anyone else’s run or set for just the nominal price of all the cards in it.
-- To protect against hostile takeovers you can inflate the price of your runs and sets by adding tokens to them
+- By default, anyone can buy anyone else’s run or set for just the nominal price of all the cards in it.
+- To protect against hostile takeovers, you can inflate the price of your runs and sets by adding tokens to them
 - Place the tokens on top of the run so that they can be clearly seen (without also obscuring too much of the run, especially the top card)
-- Each token adds one to the price of the run or set, so if you add three tokens to a run it will cost three more tokens to buy it.
+- Each token adds one to the price of the run or set, so if you add three tokens to a run, it will cost three more tokens to buy it.
 - The higher price is paid by the buyer and goes to you, the (possibly reluctant) seller
-- As part of the transaction the extra tokens are removed and given to the bank
+- As part of the transaction, the extra tokens are removed and given to the bank.
 - The extra tokens last one full turn. If the runs make it back to your turn again without being bought, the tokens are spent and are given to the bank.
-- Each turn you need to place new tokens on the runs & sets you want to protect
+- Each turn, you need to place new tokens on the runs & sets you want to protect
 
 ### Trade With Other players
 - You can initiate a trade with another player at any point during the trading part of your turn
 - You can take part in a trade at any point, if initiated by a player during their turn
 - You cannot trade with another player unless it is yours, or the other player’s, turn
 - During a trade, players are free to:
-	- exchange cards for money at any price they mutually agree on
-	- swap cards
-	- any combination of the above
+	- Exchange cards for money at any price they mutually agree on.
+	- Swap cards.
+	- Any combination of the above.
 - Trading should be kept short to keep the game moving.
 ### Discards
 - There must always be a space in the flop at the end of your turn, so that the next player gets a new card to choose.
@@ -154,7 +170,7 @@ These are the standard prices of cards, used when buying anything from the bank 
 
 | Rank | Discard Fee |
 |:--|:--|
-| **3 - T** | *free* |
+| **3 – T** | *free* |
 | **2, J** | 1 |
 | **Q** | 2
 | **K** | 3 |
@@ -172,3 +188,14 @@ These are the standard prices of cards, used when buying anything from the bank 
 - Cards, conceptually, move sideways from the stack, through the flop, onto the discard pile. This represents the market, knowledge of how it will behave in the future, and what stock is hot at the moment.
 - Slide cards in the flop towards the discard pile so that new cards are always added to the side near the stack.
 - Watching how the stack shrinks and the discard pile grows helps to give an understanding of how far through the game you are.
+### The End-Game
+- Two end-games are being play-tested. Both are compatible, so can be played together in the same game.
+-  1. The end-game is triggered the moment a player gets a ‘Royal Flush’, i.e., A-K-Q-J-T
+	2. The end game is triggered once the stack runs out.
+- Once the end-game is triggered, the game continues for at least one more round to finish with the player who originally went last.
+- If a player triggers the end of the game with a royal flush, they get 10 extra tokens.
+### The Winner
+- when the end-game is finished, all players:
+	-  1. Sell all their cards back to the bank for 1 token each
+		2. Count up their tokens
+- The player with the most tokens is the winner.
