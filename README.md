@@ -1,6 +1,6 @@
 # Dead-Cat Bounce
 
-A German-style trading board-game design played with a standard pack of cards.
+A trading board-game design, played with a standard pack of cards.
 
 ## Concept
 
