@@ -209,9 +209,10 @@ These are the standard prices of cards, used when buying anything from the bank 
 	- i.e. the players between the person who’s turn it is when the end of the game was triggered, and the person who first started
 
 To work out who has won, allocate points as follows:
-1. Each card a player has in their hand or on the table scores 1 pt.
-2. Each token scores 1 pt.
-3. A royal flush scores 15 pts.
+1. Each card a player has on the table scores 1 pt.
+2. Each card a player has in their hand scores -2 pts.
+3. Each token scores 1 pt.
+4. A royal flush scores 15 pts.
 ### The Winner
 - The player with the most points at the end is the winner.
 
