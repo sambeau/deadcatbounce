@@ -74,15 +74,16 @@ In any order:
 - **Buy New Stock:** Any cards in the flop can be bought at their _nominal price_
 - **Trade With Other players:** Players are free to buy, sell and swap any cards they have on display or in their hand.
 - **Hostile Takeover:** Players are free to buy any sets & runs on display by other players, as long as the full **inflated** price is paid in-full.
-- **Put a card back on the market:** any card on display or in your hand can be put back into the flop—_if there is a space in the flop for it_. The market will pay the nominal price minus an admin fee of 1 token.
-- **Sell to the bank:** any card on display or in your hand can be sold to the bank. The bank pays 1 token per card, even for Aces.
+- **Put a card back on the market:** any card on display or in your hand, with a value of more than one, can be put back into the flop—_if there is a space in the flop for it_. The market will pay the nominal price minus an admin fee of 1 token.
+- **Sell to the bank:** any card on display or in your hand can be sold to the bank. The bank pays 1 token per card, even for Aces. You cannot sell a card you have just bought.
+- **Display a single royal card, or a two:** any card with a value of more than one can be placed onto the table to make a _singleton_, ready to start a run or a set.
 - **Build runs:** two or more cards in consecutive order and of the same suit can be placed onto the table to create a run. Cards can be added to the top or bottom of runs to lengthen them.
 - **Build sets:** two (a pair) or more cards of the same rank can be placed on the table. Cards can be added to sets to make them wider.
 - **Pay to see extra flop cards:** as long as there are less than 3 cards in the flop, you can spend one token per card to fill any. You can then buy them if you like, but have to pay the nominal price for them.
 ### Protect your investments
 1. **Inflate prices to protect your investments:** Place extra tokens onto any sets and runs you want to inflate the price of, to protect from hostile takeover.
 ### Discard
-There should always be a space in the flop at the end of your turn, so one card should be discarded.
+There should always be a space in the flop at the end of your turn. If there are three cards in the flop, discard one.
 1. Choose a card to be discarded, if you cannot discard without paying, the bank will discard for you (see below).
 ### Pay Tax
 1. Cards held in your hand are taxed at one token per card, paid directly to the bank.
@@ -126,7 +127,16 @@ These are the standard prices of cards, used when buying anything from the bank 
 ### Buying New Stock
 - Any cards in the flop are available for purchase
 - To buy a card from the flop, pay the nominal fee to the bank
-- A card can be placed in your hand, added to a run or set on the table or used to make a set or run on the table
+- A card can be placed in your hand, added to a run or set on the table or used to make a set or run on the table.
+### Singletons
+- Royal cards and 2s can be put on display by themselves to make a ‘singleton’.
+- You can add cards to a singleton two to convert it to a set or a run.
+	- A singleton is not considered a run or a set, so cannot win a length bonus.
+- Royal singletons pay a dividend of 1 token
+- A single 2 plays a dividend of 2 tokens
+- You can only have one singleton of the same rank.
+- You can take a 2 from the bottom of a run and make it a singleton
+
 ### Runs & Sets
 - During your turn, you can place as many cards as you like, from your hand, flop, trades or takeovers, onto the table to make sets and runs.
 - **Runs:** are **two** or more cards **of the same suit** in consecutive order. So, 4–3, A–K–Q–J–T, 3–2—A, 2—A, are all valid runs.
@@ -135,9 +145,6 @@ These are the standard prices of cards, used when buying anything from the bank 
 	- If you play with more than 4 suits, sets can be of more than 4 cards.
 - **Dividends:** are paid out for a combination of rank and length. See the dividends section for more details.
 - You can break your sets and runs up during your turn to make different sets or runs, place cards into your hand, put the cards back onto the market, or sell them back to the bank.
-### Twos
-- Twos are the only cards you can display by themselves. You can add cards to a singleton two to convert it to a set or a run.
-	- A single two is not considered a run or a set, so cannot win a length bonus.
 ### Hostile Takeovers
 - Any set, run or 2, on display are for sale.
 - Cards in your hand are not for sale.
@@ -168,7 +175,8 @@ These are the standard prices of cards, used when buying anything from the bank 
 - Trading should be kept short to keep the game moving.
 ### Discards
 - There must always be a space in the flop at the end of your turn, so that the next player gets a new card to choose.
-- At the end of your turn, you can pick a low card to discard for free, or pay a fee to discard a higher-value card.
+- If there are 3 cards in the flop, you must discard one.
+- You can pick a low card to discard for free, or pay a fee to discard a higher-value card.
 - Discarding is (nominal value – 1) to discard, so:
 
 | Rank | Discard Fee |
@@ -183,8 +191,9 @@ These are the standard prices of cards, used when buying anything from the bank 
 ### Selling a card to the Bank
 - The bank pays 1 for any card sold back to it
 - Cards held in your hand can be sold & discarded ‘face down’ so that other players know that you have sold a card, but not what card it is.
+- You cannot sell a card you have just bought.
 ### Putting a card back on the market
-- If there is room in the flop, you can put your card back onto it, placing it back on the market.
+- If there is room in the flop, you can put any card with a value of more than one, back onto it, placing it back on the market.
 - The bank will return your investment minus an admin fee of 1 token. So, placing an Ace on the market will pay you 4 tokens.
 	- Note that if you later decide to discard it, it will cost you 4 tokens to do so. At which point, you might as well have sold it straight to the bank for 1.
 - You can make a space in the flop by buying a card, and then put a different card back on the market in its place.
@@ -193,16 +202,18 @@ These are the standard prices of cards, used when buying anything from the bank 
 - Slide cards in the flop towards the discard pile so that new cards are always added to the side near the stack.
 - Watching how the stack shrinks and the discard pile grows helps to give an understanding of how far through the game you are.
 ### The End-Game
-- Two end-games are being play-tested. Both are compatible, so can be played together in the same game.
--  1. The end-game is triggered the moment a player gets a ‘Royal Flush’, i.e., A-K-Q-J-T
-	2. The end game is triggered once the stack runs out.
-- Once the end-game is triggered, the game continues for at least one more round to finish with the player who originally went last.
-- If a player triggers the end of the game with a royal flush, they get 10 extra tokens.
+- There are two ways to trigger the endgame.
+-  1. A player gets a ‘Royal Flush’, i.e., A-K-Q-J-T
+	2. The stack runs out.
+- Once the end-game is triggered, each player who hasn’t had a turn this round is paid their dividends.
+	- i.e. the players between the person who’s turn it is when the end of the game was triggered, and the person who first started
+
+To work out who has won, allocate points as follows:
+1. Each card a player has in their hand or on the table scores 1 pt.
+2. Each token scores 1 pt.
+3. A royal flush scores 15 pts.
 ### The Winner
-- when the end-game is finished, all players:
-	-  1. Sell all their cards back to the bank for 1 token each.
-		2. Count up their tokens.
-- The player with the most tokens is the winner.
+- The player with the most points at the end is the winner.
 
 ## Variations
 
@@ -222,3 +233,7 @@ It would be fun to try varying the length of the suits. For instance,
 - You could limit Spades and hearts to only 10-A
 - You could pay more for short suit cards at the end of the game, e.g. spades & hearts could be 2 points each
 - If you finish the game with a royal flush from a short suit you could get a much bigger bonus, e.g. 50 points.
+### Mixed Runs
+It might be fun to try playing with mixed runs:
+- Pay dividends from bottom up, so K♠-Q♥-J♥ pay 2+1+1=4 rather  than 4+1+1=6
+
