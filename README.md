@@ -213,6 +213,7 @@ It would be fun to try including jokers in the game, much as board games have �
 - A joker puts a block on anyone buying a run or a set for one turn. It is placed onto the cards just like protection money. It is discarded on your next turn.
 - A joker acts like a wild card in a run to join two almost touching runs together, e.g. in K-Q-J…joker…9-8 the joker acts like a ten. However, jokers shouldn’t be counted in the dividend, so that run would score 8 not 9. They can only be played in the middle of a run, never at the start or end (unless another card, that encloses them, is played with them).
 - A joker allows you to take any joining card from an opponent. You swap the joker into their run and take their card out. Again, you can only take a card from the middle, never the top or the bottom. Essentially, this will be a licence to steal a king.
+- My Canasta set has 6 jokers, of three types, so potentially you could have all three rules.
 ### Variable-length Suits
 It would be fun to try varying the length of the suits. For instance,
 - You could play with two sets of Clubs and diamonds
