@@ -1,6 +1,6 @@
 # Dead-Cat Bounce
 
-A trading board-game design, played with a standard pack of cards.
+A German-style trading board-game design played with a standard pack of cards.
 
 ## Concept
 
@@ -187,7 +187,7 @@ These are the standard prices of cards, used when buying anything from the bank 
 - If there is room in the flop, you can put your card back onto it, placing it back on the market.
 - The bank will return your investment minus an admin fee of 1 token. So, placing an Ace on the market will pay you 4 tokens.
 	- Note that if you later decide to discard it, it will cost you 4 tokens to do so. At which point, you might as well have sold it straight to the bank for 1.
-- You can make a space in the flop by buying a card and then put a different card back on the market in its place.
+- You can make a space in the flop by buying a card, and then put a different card back on the market in its place.
 ### The Stack, Flop & Discard Pile
 - Cards, conceptually, move sideways from the stack, through the flop, onto the discard pile. This represents the market, knowledge of how it will behave in the future, and what stock is hot at the moment.
 - Slide cards in the flop towards the discard pile so that new cards are always added to the side near the stack.
@@ -200,6 +200,22 @@ These are the standard prices of cards, used when buying anything from the bank 
 - If a player triggers the end of the game with a royal flush, they get 10 extra tokens.
 ### The Winner
 - when the end-game is finished, all players:
-	-  1. Sell all their cards back to the bank for 1 token each
-		2. Count up their tokens
+	-  1. Sell all their cards back to the bank for 1 token each.
+		2. Count up their tokens.
 - The player with the most tokens is the winner.
+
+## Variations
+
+### Jokers
+
+It would be fun to try including jokers in the game, much as board games have ‘chance’ cards. Red & black Jokers could have different effects. Suggestions:
+
+- A joker puts a block on anyone buying a run or a set for one turn. It is placed onto the cards just like protection money. It is discarded on your next turn.
+- A joker acts like a wild card in a run to join two almost touching runs together, e.g. in K-Q-J…joker…9-8 the joker acts like a ten. However, jokers shouldn’t be counted in the dividend, so that run would score 8 not 9. They can only be played in the middle of a run, never at the start or end (unless another card, that encloses them, is played with them).
+- A joker allows you to take any joining card from an opponent. You swap the joker into their run and take their card out. Again, you can only take a card from the middle, never the top or the bottom. Essentially, this will be a licence to steal a king.
+### Variable-length Suits
+It would be fun to try varying the length of the suits. For instance,
+- You could play with two sets of Clubs and diamonds
+- You could limit Spades and hearts to only 10-A
+- You could pay more for short suit cards at the end of the game, e.g. spades & hearts could be 2 points each
+- If you finish the game with a royal flush from a short suit you could get a much bigger bonus, e.g. 50 points.
