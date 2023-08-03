@@ -215,6 +215,7 @@ It would be fun to try including jokers in the game, much as board games have â€
 - A joker allows you to take any joining card from an opponent. You swap the joker into their run and take their card out. Again, you can only take a card from the middle, never the top or the bottom. Essentially, this will be a licence to steal a king.
 - My Canasta set has 6 jokers, of three types, so potentially you could have all three rules.
 - Jokers could be dealt out to each player at the beginning or appear in the flop. It would need play-testing, but they could be free to take, or expensive to buy â€” both would be fun as long as they didn;t unbalance the game.
+- Jokers could be free to keep (lay face-down on the table) or you have to pay tax to keep them in your hand. I prefer you paying tax to keep them as that would encourage you to use them impulsivel,y and could make them uneconomical to keep for too long.
 ### Variable-length Suits
 It would be fun to try varying the length of the suits. For instance,
 - You could play with two sets of Clubs and diamonds
