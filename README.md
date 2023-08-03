@@ -86,9 +86,10 @@ In any order:
 There should always be a space in the flop at the end of your turn. If there are three cards in the flop, discard one.
 1. Choose a card to be discarded, if you cannot discard without paying, the bank will discard for you (see below).
 ### Pay Tax
-1. Cards held in your hand are taxed at one token per card, paid directly to the bank.
+1. A card that can be played on the table cannot be placed in your hand.
+2. Cards held in your hand are taxed at one token per card, paid directly to the bank.
 	- Taxes must be paid, if you don’t have enough for tax, something must be sold either to the bank (which pays one token per card), or to another player (who might be more generous).
-2. Once tax has been paid, your turn is over and play passes to the next player.
+3. Once tax has been paid, your turn is over and play passes to the next player.
 
 ### Nominal prices
 These are the standard prices of cards, used when buying anything from the bank and when the bank pays out dividends.
@@ -205,16 +206,24 @@ These are the standard prices of cards, used when buying anything from the bank 
 - There are two ways to trigger the endgame.
 -  1. A player gets a ‘Royal Flush’, i.e., A-K-Q-J-T
 	2. The stack runs out.
-- Once the end-game is triggered, each player who hasn’t had a turn this round is paid their dividends.
-	- i.e. the players between the person who’s turn it is when the end of the game was triggered, and the person who first started
+
+If a player gets a royal flush, each other player has one last round of dividends:
+1. Remove any tokens protecting cards
+2. Pay out the dividends for their stock
+
+If the stack ran out:
+1. Shuffle the discard pile replace the stack with it
+2. Each player has one last turn
+
+### The Winner
 
 To work out who has won, allocate points as follows:
 1. Each card a player has on the table scores 1 pt.
 2. Each card a player has in their hand scores -2 pts.
 3. Each token scores 1 pt.
-4. A royal flush scores 15 pts.
-### The Winner
-- The player with the most points at the end is the winner.
+4. A royal flush scores 10 pts.
+
+The player with the most points at the end is the winner.
 
 ## Variations
 
@@ -226,8 +235,8 @@ It would be fun to try including jokers in the game, much as board games have �
 - A joker acts like a wild card in a run to join two almost touching runs together, e.g. in K-Q-J…joker…9-8 the joker acts like a ten. However, jokers shouldn’t be counted in the dividend, so that run would score 8 not 9. They can only be played in the middle of a run, never at the start or end (unless another card, that encloses them, is played with them).
 - A joker allows you to take any joining card from an opponent. You swap the joker into their run and take their card out. Again, you can only take a card from the middle, never the top or the bottom. Essentially, this will be a licence to steal a king.
 - My Canasta set has 6 jokers, of three types, so potentially you could have all three rules.
-- Jokers could be dealt out to each player at the beginning or appear in the flop. It would need play-testing, but they could be free to take, or expensive to buy — both would be fun as long as they didn;t unbalance the game.
-- Jokers could be free to keep (lay face-down on the table) or you have to pay tax to keep them in your hand. I prefer you paying tax to keep them as that would encourage you to use them impulsivel,y and could make them uneconomical to keep for too long.
+- Jokers could be dealt out to each player at the beginning or appear in the flop. It would need play-testing, but they could be free to take, or expensive to buy — both would be fun as long as they didn’t unbalance the game.
+- Jokers could be free to keep (lay face-down on the table) or you have to pay tax to keep them in your hand. I prefer you paying tax to keep them as that would encourage you to use them impulsively and could make them uneconomical to keep for too long.
 ### Variable-length Suits
 It would be fun to try varying the length of the suits. For instance,
 - You could play with two sets of Clubs and diamonds
@@ -237,4 +246,3 @@ It would be fun to try varying the length of the suits. For instance,
 ### Mixed Runs
 It might be fun to try playing with mixed runs:
 - Pay dividends from bottom up, so K♠-Q♥-J♥ pay 2+1+1=4 rather  than 4+1+1=6
-
