@@ -5,7 +5,7 @@ A German-style trading board-game design played with a standard pack of cards.
 ## Concept
 
 #### dead-cat bounce *(noun)*
-1. *Slang.* A temporary recovery in stock prices after a steep decline, often resulting from the purchase of securities that have been sold short.
+1. ***Slang.** A temporary recovery in stock prices after a steep decline, often resulting from the purchase of securities that have been sold short.*
 
 Dead-Cat Bounce is a trading game played with a pack of cards and some tokens to act as money. It is loosely based around the concept of buying and selling stocks and shares. It falls into the Rummy family of games, so has melds of sets and runs, which in this case represent the stocks and shares. Dead-Cat Bounce expands on the basic rummy game, turning into a trading game, by introducing money, dividends, tax and hostile takeovers.
 
