@@ -188,7 +188,7 @@ These are the standard prices of cards, used when buying anything from the bank 
 | **K** | 3 |
 | **A** | 4 |
 
-- If your choice is only to pay for a discard, and you don’t wish too, the bank will discard the lowest ranked card, closest to the discard pile, for free.
+- If your choice is only to pay for a discard, and you don’t wish to, the bank will discard the lowest ranked card, closest to the discard pile, for free.
 ### Selling a card to the Bank
 - The bank pays 1 for any card sold back to it
 - Cards held in your hand can be sold & discarded ‘face down’ so that other players know that you have sold a card, but not what card it is.
